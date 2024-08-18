@@ -1,0 +1,9 @@
+Please ensure to follow the instructions provided in the LPVS worksheet by entering your CDN in cell E1 and filling out the data entry fields to generate an MCR. Once this is completed, you can proceed to the VATR calc worksheet.
+
+It is important to note that TEA will provide preliminary maximum compressed tier one tax rates to each school district by August 5, and any appeals of the MCR must be submitted before August 31 for a final determination.
+
+Districts are advised not to finalize their tax rate adoption until the preliminary MCRs are published. If an appeal is made, districts should wait for the final MCR determination.
+
+Remember to input the TY 2024 and TY 2023 locally certified values based on the $100,000 state homestead exemption for accurate growth rate calculations. The Tax Rate and MCR Template and LPVS will not have preloaded TY 2023 values, so historical information must be used.
+
+Please be aware that the information provided does not override the Texas Tax Code, Texas Education Code, or the Texas Administrative Code.
