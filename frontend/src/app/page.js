@@ -1,8 +1,8 @@
 "use client"
 import React, { useState } from 'react';
 import "./style.css";
-import LeftPane from '@/components /LeftPane';
-import RightPane from '@/components /RightPane';
+import LeftPane from '@/components/LeftPane';
+import RightPane from '@/components/RightPane';
 
 const Home = () => {
   const [query, setQuery] = useState("");
