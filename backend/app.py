@@ -50,7 +50,7 @@ def search():
         return jsonify({"error": "Query is required"}), 400
 
     # Perform similarity search
-    similarity_search_results = vector_store.similarity_search_with_relevance_scores(query=query, k=5)
+    similarity_search_results = vector_store.similarity_search_with_relevance_scores(query=query, k=2)
     
     # Extract text content and metadata (filenames)
     information = "\n".join([doc.page_content for doc in similarity_search_results])
